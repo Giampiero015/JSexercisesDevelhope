@@ -1,0 +1,4 @@
+# destrutturazione2
+Dato uno studente oggetto nidificato con informazioni sulle proprietà e voti,
+utilizza la destrutturazione dell'oggetto per creare variabili
+nome, età e voto che contengano i valori dell'oggetto nidificato.
